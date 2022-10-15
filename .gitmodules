@@ -4,3 +4,6 @@
 [submodule "dataModel.UnmannedAerialVehicle"]
 	path = dataModel.UnmannedAerialVehicle
 	url = https://github.com/smart-data-models/dataModel.UnmannedAerialVehicle.git
+[submodule "dataModel.Aeronautics"]
+	path = dataModel.Aeronautics
+	url = https://github.com/smart-data-models/dataModel.Aeronautics.git
