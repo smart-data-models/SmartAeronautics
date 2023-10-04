@@ -11,6 +11,7 @@ This GitHub repository contains links to the repositories where different groups
 
 ## List of subjects
 
+* [dataModel.ACRIS](https://github.com/smart-data-models/dataModel.ACRIS)
 * [dataModel.Aeronautics](https://github.com/smart-data-models/dataModel.Aeronautics)
 * [dataModel.UnmannedAerialVehicle](https://github.com/smart-data-models/dataModel.UnmannedAerialVehicle)
 ## Support
