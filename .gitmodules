@@ -7,3 +7,6 @@
 [submodule "dataModel.ACRIS"]
 	path = dataModel.ACRIS
 	url = https://github.com/smart-data-models/dataModel.ACRIS.git
+[submodule "dataModel.Aeronautics"]
+	path = dataModel.Aeronautics
+	url = https://github.com/smart-data-models/dataModel.Aeronautics.git
