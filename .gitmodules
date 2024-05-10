@@ -1,9 +1,6 @@
 [submodule "SmartCities"]
 	path = SmartCities
 	url = https://github.com/smart-data-models/SmartCities.git
-[submodule "dataModel.UnmannedAerialVehicle"]
-	path = dataModel.UnmannedAerialVehicle
-	url = https://github.com/smart-data-models/dataModel.UnmannedAerialVehicle.git
 [submodule "dataModel.ACRIS"]
 	path = dataModel.ACRIS
 	url = https://github.com/smart-data-models/dataModel.ACRIS.git
